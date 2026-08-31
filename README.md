@@ -3,9 +3,9 @@
 <h3 align="center">Software Engineering Student | Aspiring Software Developer</h3>
 
 <p align="center">
-  <a href="https://[www.linkedin.com](https://www.linkedin.com/in/adri%C3%A1n-rodr%C3%ADguez-margall%C3%B3-7b5a20432/)/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/adri%C3%A1n-rodr%C3%ADguez-margall%C3%B3-7b5a20432/">LinkedIn</a>
   ·
-  <a href="adriro11@ucm.es">Email</a>
+  <a href="mailto:adriro11@ucm.es">Email</a>
 </p>
 
 ---
