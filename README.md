@@ -54,31 +54,6 @@
 
 > More projects coming soon...
 
-#### 📌 Project 1 — *Project Name*
-
-Brief description of the project and what you built.
-
-**Technologies:** `Java` `SQL` `Git`
-
-[🔗 View project](#)
-
-#### 📌 Project 2 — *Project Name*
-
-Brief description of the project and the main features you implemented.
-
-**Technologies:** `C++` `HTML` `JavaScript`
-
-[🔗 View project](#)
-
-#### 📌 Project 3 — *Project Name*
-
-Brief description of the project and what you learned from it.
-
-**Technologies:** `Python` `MySQL`
-
-[🔗 View project](#)
-
----
 
 ### 📊 GitHub Stats
 
